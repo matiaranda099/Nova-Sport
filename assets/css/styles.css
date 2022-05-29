@@ -31,7 +31,6 @@
 .tarjeta {
   background-image: url(../img/SLIDER1.jpg);
   background-attachment: fixed;
-  background-position: fixed;
   background-size: cover;
   color: #fff;
   padding: 25px;
