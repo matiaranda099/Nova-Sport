@@ -29,7 +29,7 @@
 }
 
 .tarjeta {
-  background-image: url(/assets/img/SLIDER1.jpg);
+  background-image: url(../img/SLIDER1.jpg);
   background-attachment: fixed;
   background-position: fixed;
   background-size: cover;
