@@ -1,0 +1,7 @@
+/*MIXIN*/
+body{
+    overflow-x: hidden;
+  @include flexPropiedades(column,100vh)
+}
+
+

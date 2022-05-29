@@ -1,0 +1,6 @@
+@mixin flexPropiedades($direccion,$alturaMinima) {
+    display: flex;
+    flex-direction: $direccion;
+    min-height: $alturaMinima;
+
+}

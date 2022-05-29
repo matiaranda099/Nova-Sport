@@ -1,0 +1,12 @@
+$color-primario: #fff;
+$color-secundario: #636160;
+$color-terciario: #433566;
+$caracteristicas: (
+    display: flex,
+    direccion: column,
+    alineacion: center,
+);
+
+$colores:(primario:$color-primario,secundario:$color-secundario,terciario:$color-terciario);
+
+$color-acento: rgba(14, 52, 175, 0.959);

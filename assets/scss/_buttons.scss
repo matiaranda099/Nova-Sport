@@ -1,0 +1,14 @@
+/*Estilos para botones de PRODUCTOS y boton del INDEX*/
+.botones{
+    padding: 10px 15px;
+    border: none;
+    background-color: #585DCC;
+    color: $color-primario;
+    border-radius: 8px;
+}
+/*MAPA*/
+@each $clave,$valor in $colores {
+    .botones-#{$clave} {
+        background-color: $valor;
+    }
+}
